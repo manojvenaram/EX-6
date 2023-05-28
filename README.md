@@ -1,6 +1,6 @@
 # EX-6 IMPLEMENTATION OF PING COMMAND
 
-DATE :
+DATE :12-04-2023
 
 ## AIM :
 To write the python program for simulating ping command.
